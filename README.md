@@ -66,6 +66,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-Aryan Bhagat - aryanbhagat1710@gmail.com
+Aryan Bhagat  
+📧 [aryanbhagat2602@gmail.com](mailto:aryanbhagat2602@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/aryanbhagat/)
 
 Project Link: [https://github.com/aryannnn17/TIk-Tak-Toe-React](https://github.com/aryannnn17/TIk-Tak-Toe-React)
