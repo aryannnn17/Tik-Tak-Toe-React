@@ -31,8 +31,8 @@ A beautiful, responsive Tic-Tac-Toe game built with React and Vite, featuring li
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/aryannnn17/TIk-Tak-Toe-React.git
-   cd TIk-Tak-Toe-React
+   git clone https://github.com/aryannnn17/Tik-Tak-Toe-React.git
+   cd Tik-Tak-Toe-React
    ```
 
 2. **Install dependencies**
@@ -70,4 +70,6 @@ Aryan Bhagat
 📧 [aryanbhagat2602@gmail.com](mailto:aryanbhagat2602@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/aryanbhagat/)
 
-Project Link: [https://github.com/aryannnn17/TIk-Tak-Toe-React](https://github.com/aryannnn17/TIk-Tak-Toe-React)
+Project Link: [https://github.com/aryannnn17/Tik-Tak-Toe-React](https://github.com/aryannnn17/Tik-Tak-Toe-React)
+
+Live Demo: [https://aryannnn17.github.io/Tik-Tak-Toe-React/](https://aryannnn17.github.io/Tik-Tak-Toe-React/)

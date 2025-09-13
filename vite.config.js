@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/TIk-Tak-Toe-React/',
+  base: '/Tik-Tak-Toe-React/',
   plugins: [react()],
 })
